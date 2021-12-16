@@ -1,0 +1,18 @@
+﻿  BranchAndBound.cpp
+E:\PWR\5semestr\pea\PEA_Mucha_Zad1\PEA_Mucha_Zad1\BranchAndBound.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\PWR\5semestr\pea\PEA_Mucha_Zad1\PEA_Mucha_Zad1\BranchAndBound.cpp(11,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\PWR\5semestr\pea\PEA_Mucha_Zad1\PEA_Mucha_Zad1\BranchAndBound.cpp(85,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\PWR\5semestr\pea\PEA_Mucha_Zad1\PEA_Mucha_Zad1\BranchAndBound.cpp(104,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\PWR\5semestr\pea\PEA_Mucha_Zad1\PEA_Mucha_Zad1\BranchAndBound.cpp(151,101): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  DynamicProgramming.cpp
+E:\PWR\5semestr\pea\PEA_Mucha_Zad1\PEA_Mucha_Zad1\DynamicProgramming.cpp(77,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Menu.cpp
+E:\PWR\5semestr\pea\PEA_Mucha_Zad1\PEA_Mucha_Zad1\BranchAndBound.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+E:\PWR\5semestr\pea\PEA_Mucha_Zad1\PEA_Mucha_Zad1\BranchAndBound.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  3 of 612 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PEA_Mucha_Zad1.vcxproj -> E:\PWR\5semestr\pea\PEA_Mucha_Zad1\x64\Release\PEA_Mucha_Zad1.exe

@@ -1,0 +1,7 @@
+﻿  BranchAndBound.cpp
+E:\PWR\5semestr\pea\PEA_Mucha_Zad1\PEA_Mucha_Zad1\BranchAndBound.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\PWR\5semestr\pea\PEA_Mucha_Zad1\PEA_Mucha_Zad1\BranchAndBound.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+E:\PWR\5semestr\pea\PEA_Mucha_Zad1\PEA_Mucha_Zad1\BranchAndBound.cpp(15,21): warning C4018: '<': signed/unsigned mismatch
+E:\PWR\5semestr\pea\PEA_Mucha_Zad1\PEA_Mucha_Zad1\BranchAndBound.cpp(152,21): warning C4018: '<': signed/unsigned mismatch
+E:\PWR\5semestr\pea\PEA_Mucha_Zad1\PEA_Mucha_Zad1\BranchAndBound.cpp(192,20): warning C4834: discarding return value of function with 'nodiscard' attribute
+  PEA_Mucha_Zad1.vcxproj -> E:\PWR\5semestr\pea\PEA_Mucha_Zad1\Debug\PEA_Mucha_Zad1.exe
